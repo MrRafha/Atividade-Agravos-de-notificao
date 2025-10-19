@@ -3,7 +3,7 @@
 Esta seção fornece as instruções detalhadas para a entrega da atividade prática sobre o Sistema de Notificação de Agravos de Saúde Pública.
 
 ## Antes de tudo...
-Esta é uma atividade prática que requer investigação, pesquisa e autoaprendizagem.
+Esta é uma atividade prática que requer `investigação`, `pesquisa` e `autoaprendizagem`.
 Características importantes para o desenvolvimento de suas habilidades como programador.
 Portanto, é esperado que vocês busquem soluções por conta própria, utilizando os recursos disponíveis.
 
