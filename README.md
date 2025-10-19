@@ -1,13 +1,4 @@
-## title {.tabset .tabset-fade}
-content above tabbed region.
-
-### tab Social-Media
-
-tab content Social-Media
-
-### tab Contact
-
-tab content  Contact
-
-
-content below tabbed region
+## Entrega
+Refer to [ENTREGA.md](ENTREGA.md)
+## Atividade
+Refer to [ATIVIDADE.md](ATIVIDADE.md)
