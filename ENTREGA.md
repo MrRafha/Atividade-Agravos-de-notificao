@@ -6,7 +6,6 @@ Esta seção fornece as instruções detalhadas para a entrega da atividade prá
 Esta é uma atividade prática que requer investigação, pesquisa e autoaprendizagem.
 Características importantes para o desenvolvimento de suas habilidades como programador.
 Portanto, é esperado que vocês busquem soluções por conta própria, utilizando os recursos disponíveis.
-Disponibilizei alguns tutoriais na seção `ATIVIDADE` que podem ser úteis para vocês.
 
 ## Entrega
 - **Data de Entrega:** 31 de outubro de 2025
