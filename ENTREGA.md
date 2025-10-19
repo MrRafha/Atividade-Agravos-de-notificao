@@ -8,8 +8,8 @@ Características importantes para o desenvolvimento de suas habilidades como pro
 Portanto, é esperado que vocês busquem soluções por conta própria, utilizando os recursos disponíveis.
 
 ## Entrega
-- **Data de Entrega:** 31 de outubro de 2025
-- **Formato de Entrega:** Repositório no GitHub
+- **Data de Entrega:** `31 de outubro de 2025`
+- **Formato de Entrega:** `Repositório no GitHub`
 
 ## Organização da Entrega
 1. **Preparação do Código**
