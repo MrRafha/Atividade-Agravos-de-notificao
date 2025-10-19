@@ -1,7 +1,6 @@
 # Atividade Prática - Sistema de Notificação de Agravos de Saúde Pública
 ## Descrição
 Esta atividade tem como objetivo desenvolver um sistema simples para notificar agravos de saúde pública.
-Detalhes sobre a entrega da atividade podem ser encontrados no arquivo [ENTREGA](ENTREGA.md).
 O sistema deve permitir o registro e geração de relatórios das notificações abaixo:
 - [Hanseniase](https://portalsinan.saude.gov.br/hanseniase)
     - [Ficha de Notificação/Investigação de Hanseníase](http://portalsinan.saude.gov.br/images/documentos/Agravos/Hanseniase/Hanseniase_v5.pdf)
@@ -9,6 +8,8 @@ O sistema deve permitir o registro e geração de relatórios das notificações
     - [Ficha de Notificação/Investigação de Tuberculose](http://portalsinan.saude.gov.br/images/documentos/Agravos/Tuberculose/Tuberculose_v5.pdf)
 - [Malária](https://portalsinan.saude.gov.br/malaria)
     - [Ficha de Notificação/Investigação de Malária](http://portalsinan.saude.gov.br/images/documentos/Agravos/Malaria/Malaria_v5.pdf)
+
+Detalhes sobre a entrega da atividade podem ser encontrados no arquivo [ENTREGA](ENTREGA.md).
 
 ## Funcionalidades
 ### Registrar Notificações
